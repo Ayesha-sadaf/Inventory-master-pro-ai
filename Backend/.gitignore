@@ -1,0 +1,5 @@
+.chainlit
+.venv
+.env
+__pycache__/
+*.pyc
