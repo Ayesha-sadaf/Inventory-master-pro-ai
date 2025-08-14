@@ -1,14 +1,12 @@
-# Welcome to Chainlit! 🚀🤖
+#  Welcome to Inventory Master Pro AI
 
-Hi there, Developer! 👋 We're excited to have you on board. Chainlit is a powerful tool designed to help you prototype, debug and share applications built on top of LLMs.
+I’m **Inventory Master Pro AI**, your intelligent assistant built by The Inventory Master.
 
-## Useful Links 🔗
+We specialize in **smart inventory control solutions**—leveraging cutting-edge technologies in tracking, automation, and analytics to help businesses like yours reduce logistics complexity, improve tracking accuracy, and boost operational efficiency.
 
-- **Documentation:** Get started with our comprehensive [Chainlit Documentation](https://docs.chainlit.io) 📚
-- **Discord Community:** Join our friendly [Chainlit Discord](https://discord.gg/k73SQ3FyUh) to ask questions, share your projects, and connect with other developers! 💬
+How I can assist you today:
+- Retrieve insights from The Inventory Master’s data and knowledge base  
+- Help you understand tracking options (e.g., RFID, barcodes, NFC, BLE)  
+- Explain how AI-driven demand forecasting improves inventory decisions  
 
-We can't wait to see what you create with Chainlit! Happy coding! 💻😊
-
-## Welcome screen
-
-To modify the welcome screen, edit the `chainlit.md` file at the root of your project. If you do not want a welcome screen, just leave this file empty.
+Let’s streamline your inventory together—what would you like to know?
